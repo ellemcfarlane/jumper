@@ -1,5 +1,8 @@
 # jumper
 
+## video demo
+Click [here](https://drive.google.com/file/d/1Gx4is2f0_Znnba_4_Oi3fZEkFp1OcODH/view?usp=sharing) to watch a video of the game being played.
+
 ## game installation
 * clone this repository
 * cd into 'game' directory
