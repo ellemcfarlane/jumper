@@ -6,7 +6,7 @@
 * ensure board is plugged into computer via USB ST-LINK
 * run 'make download'
 
-## software set-up for linux
+## linux software set-up
 
 ### stlink
 
@@ -14,9 +14,9 @@
 :$ sudo apt install build-essential  
 :$ sudo apt install libusb-1.0  
 
-:$ git clone git@github.com:texane/stlink.git
-:$ cd stlink
-:$ make
+:$ git clone git@github.com:texane/stlink.git  
+:$ cd stlink  
+:$ make  
 
 :$ cd build/Release  
 :$ sudo make install /usr/bin/  
