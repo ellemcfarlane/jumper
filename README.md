@@ -32,9 +32,9 @@ LIBROOT=../libraries/STM32F3-Discovery_FW_V1.1.0
 
 ## hardware
 * STM32F301 board with:
-  ** LCD display
-  ** Wii nunchuk
-  ** I2C
-  ** Accelerometer
-  ** User button
+  * LCD display
+  * Wii nunchuk
+  * I2C
+  * Accelerometer
+  * User button
 
