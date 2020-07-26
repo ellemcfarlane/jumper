@@ -1,4 +1,5 @@
 # jumper
+A game similar to Doodle Jump made for STM32 (ARM Cortex-M4) processor.
 
 ## video demo
 Click [here](https://drive.google.com/file/d/1Gx4is2f0_Znnba_4_Oi3fZEkFp1OcODH/view?usp=sharing) to watch a video of the game being played.
